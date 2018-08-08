@@ -26,7 +26,7 @@
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" preservesSuperviewLayoutMargins="YES" image="mesa 2 " translatesAutoresizingMaskIntoConstraints="NO" id="ZCh-lW-csu">
                                 <rect key="frame" x="15" y="162" width="343" height="343"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="🐰" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zAB-SO-Kqb">
                                 <rect key="frame" x="289" y="296" width="69" height="77"/>
@@ -74,16 +74,16 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="butao" translatesAutoresizingMaskIntoConstraints="NO" id="N5Q-7j-kn8">
-                                <rect key="frame" x="67" y="502" width="240" height="67"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="butao-1" translatesAutoresizingMaskIntoConstraints="NO" id="N5Q-7j-kn8">
+                                <rect key="frame" x="68" y="505" width="240" height="67"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="butao" translatesAutoresizingMaskIntoConstraints="NO" id="LKa-f3-haq">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="butao-1" translatesAutoresizingMaskIntoConstraints="NO" id="LKa-f3-haq">
                                 <rect key="frame" x="67" y="580" width="240" height="67"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u19-O5-tV5">
-                                <rect key="frame" x="134" y="513" width="107" height="45"/>
+                                <rect key="frame" x="135" y="516" width="107" height="45"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="27"/>
                                 <state key="normal" title="Começar">
@@ -164,7 +164,7 @@
     </scenes>
     <resources>
         <image name="270748-P5BMB2-41" width="6000" height="4000"/>
-        <image name="butao" width="1990" height="632"/>
+        <image name="butao-1" width="359" height="85"/>
         <image name="mesa 2 " width="1429" height="1429"/>
         <image name="tag" width="1294" height="1304"/>
     </resources>
